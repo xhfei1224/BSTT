@@ -1,4 +1,4 @@
-#MCNN
+# MCNN
 
 A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series
 
