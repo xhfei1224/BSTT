@@ -1,7 +1,7 @@
 # BSTT
 A Bayesian Spatial-Temporal Transformer for Sleep Staging
 
-![model_architecture](fig/BSTT)Main.jpg)
+![model_architecture](fig/BSTT_Main.jpg)
 
 These are source code and experimental setup for the ISRUC database.
 
