@@ -1,10 +1,8 @@
-# 2021.7.28 Poisson-RTN
-
 import torch
 import torch.nn as nn
 from torch.nn.init import xavier_uniform_
 
-from ops_laplace_new import *
+from ops import *
 from feature import *
 
 
