@@ -1,4 +1,4 @@
 # BSTT
 A Bayesian Spatial-Temporal Transformer for Sleep Staging.
 
-Please use python rtn_laplace.py to run the model.
+lstm.py is the model file and ops.py is the Bayesian relationainference component file.
