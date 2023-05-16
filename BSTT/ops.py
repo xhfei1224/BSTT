@@ -1,4 +1,3 @@
-# 2021.7.28 Poisson-RTN
 
 import copy
 import torch
@@ -11,7 +10,7 @@ from torch.nn import init
 import math
 import numpy as np
 
-from gcn import *
+from gat import *
 
 import warnings
 
