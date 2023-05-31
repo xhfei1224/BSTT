@@ -15,15 +15,10 @@ The files in folder BSTT are the source code and experimental setup for the ISRU
  
  # Reference
  
-> @inproceedings{liu2023bstt,
-
->   title={BSTT: A Bayesian Spatial-Temporal Transformer for Sleep Staging},
-
->   author={Liu, Yuchen and Jia, Ziyu},
-
->   booktitle={The Eleventh International Conference on Learning Representations},
-
->   year={2023}
-
+> @inproceedings{liu2023bstt,<br>
+>   title={BSTT: A Bayesian Spatial-Temporal Transformer for Sleep Staging},<br>
+>   author={Liu, Yuchen and Jia, Ziyu},<br>
+>   booktitle={The Eleventh International Conference on Learning Representations},<br>
+>   year={2023}<br>
 > }
 
