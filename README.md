@@ -22,3 +22,12 @@ The files in folder BSTT are the source code and experimental setup for the ISRU
 >   year={2023}<br>
 > }
 
+# Environment
+
+- CUDA 10.0
+- Pytorch
+
+# Licence
+
+- For academic and non-commercial use only
+- Apache License 2.0
