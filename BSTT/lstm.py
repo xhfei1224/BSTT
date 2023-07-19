@@ -151,7 +151,9 @@ class lstm(nn.Module):
         #######################################
 
         #multi-head temporal relation inference
-        x = x.reshape(b, self.time_series, -1)
+        x = x.view(x, d, -1, self.window_length)
+        x = x.permute(0, 2, 1, 3).contiguous()
+        x = x.view(b, self.time_series, -1)
         x_first = x
         x_first = self.conv2(x_first)
         x = x.transpose(2, 1)
