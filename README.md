@@ -1,4 +1,4 @@
-# BSTT
+# BSTT（The code will be released soon)
 A Bayesian Spatial-Temporal Transformer for Sleep Staging
 
 ![model_architecture](fig/BSTT_main.png)
